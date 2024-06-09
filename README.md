@@ -9,5 +9,5 @@ bettrpc_shdyshift.py:
 run it on your friend pc(with pyton installed) :)
 
 
-kahoot_botspash:
-just use link.
+kahoot_cheats:
+just use link and join(simple;)
